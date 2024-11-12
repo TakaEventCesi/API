@@ -9,3 +9,5 @@ GET api/reservation/view (params: user, resaId)
 POST api/salle/create (only role admin) (params: isAdmin, salleName)
 DELETE api/salle/delete (only role admin) (params: isAdmin, salleId)
 
+swagger
+
